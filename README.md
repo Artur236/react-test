@@ -1,13 +1,11 @@
 React Test Task
 ===
 
-Welcome to the test, purpose of this exercise is to see you coding style and overall approach
-to software engineering. You don't need to finish all the tasks. In order to start the test please
-fork this repo, choose tasks to complete and once you are done send pull request and a link in email.
+Welcome to the test, purpose of this exercise is to see your coding style and overall approach
+to software engineering. In order to start the test please
+clone this repo and create a phone book.
 
 ### Tasks
-
-#### Redux / React
 
    * When "Add Contact" button is clicked, new contact card should appear with following fields:
      * Name
